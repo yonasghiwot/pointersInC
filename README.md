@@ -1,7 +1,7 @@
-#Imagine you’re writing a game in which players have to
-#navigate their way around the bermuda square
- ##The game will need to keep control of lots of things, like
-  **scores
+/#Imagine you’re writing a game in which players have to#/
+/#navigate their way around the bermuda square#/
+ /##The game will need to keep control of lots of things, like:##/
+  /**scores**/
   **lives 
   **current location of the players.
   **navigation of the players 
